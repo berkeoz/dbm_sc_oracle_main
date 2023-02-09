@@ -137,6 +137,32 @@
         }
       ],
       "DatabasesStaticDataObjects": null
+    },
+    {
+      "GlobalData": {
+        "ProjectId": "077ec87c-5e58-45de-b6e1-991c52ca1350",
+        "ProjectName": "ORACLE_SB_PRJ3",
+        "DBTypeName": "Oracle",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 1,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "berkeoz",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null
     }
   ],
   "GlobalConfigurations": null
